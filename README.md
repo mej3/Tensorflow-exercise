@@ -1,4 +1,4 @@
-# Tensorflow-exercise
+# Tensorflow-exercises
 
 This repository contains my exploration of Tensorflow. 
 
